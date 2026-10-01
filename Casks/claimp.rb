@@ -1,6 +1,6 @@
 cask "claimp" do
-  version "0.4.1"
-  sha256 "77834e60763ff9edfa9a94cbaba1338d9f471321ab8c94122142e7b212a7ab6f"
+  version "0.4.2"
+  sha256 "efd211d5a14664eed17df46fdf375cd125fe3df6f96f97192c5ebe1656bb4dbc"
 
   url "https://github.com/smixs/claimp/releases/download/v#{version}/Claimp-#{version}.dmg"
   name "Claimp"
